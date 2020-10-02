@@ -1,3 +1,4 @@
 #!/usr/bin/env sh
 
 echo "Building $1"
+cat $1/winnow.json
